@@ -1,0 +1,6 @@
+streamlit
+cv2
+cvzone
+os
+boto3
+webbrowser
