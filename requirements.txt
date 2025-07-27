@@ -1,6 +1,6 @@
-streamlit
-cv2
-cvzone
-os
-boto3
-webbrowser
+pip install streamlit
+pip install cv2
+pip install cvzone
+pip install os
+pip install boto3
+pip install webbrowser
